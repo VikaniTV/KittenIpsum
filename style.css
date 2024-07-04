@@ -1,0 +1,58 @@
+
+.roboto-slab{
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+h3{
+    color: 9195F6;
+}
+li{
+    color:E78895
+}
+html{
+    background-color: FFF7F1;
+}
+#heading{
+    text-align: center;
+    color: FF8080;
+}
+
+.firstp{
+    display: inline-block;
+    width: 200px;
+    margin: 2px;
+    border: solid 1px seagreen;
+    padding: 10px;
+
+}
+
+
+.img { 
+    width: 200px;
+    float: left;
+    padding: 5px;
+}
+
+.secondp{
+    width: 320px;
+    display: inline-block;
+    margin: 2px;
+    border: solid 1px seagreen;
+    padding: 10px;
+}
+
+div.secondp{
+    position: absolute;
+}
+
+.thirdp{
+    border: 1px solid aquamarine;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 235.6px;
+    top: 522.462;
+}
